@@ -1,74 +1,278 @@
-.yv-header{
-  width: 100%;
-  height: 10vh;
-  background-color: white;
-
+.row, .parallax-container .section{
+  width:100%;
 }
-
-.fk-gnb__logo {
-    max-width: 150px;
-    width: 100%;
-    margin-top: 2.7vh;
+.row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
 }
-.great{
-    width: 400px;
-    height: 120px;
+nav .brand-logo, nav ul a{
+  color:rgb(68, 68, 68);
 }
-
-.fk-form-input {
-    box-sizing: border-box;
-    background: #fff;
-    border: 2px solid #c6d9eb;
-    color: #333;
-    cursor: auto;
-    display: block;
-    font-family: SamsungIFRg, sans-serif;
-    font-size: 16px;
-    line-height: 20px;
-    margin-bottom: 25px;
-    padding: 10px;
-    text-align: left;
-    text-transform: none;
+.button-collapse{
+  color:rgb(38, 166, 154);
+}
+.parallax-container{
+  min-height:380px;
+  line-height:0;
+  height:auto;
+  color:rgba(255, 255, 255, 0.9);
+}
+footer.gram-footer ul.collection > li.collection-header, footer.gram-footer ul.collection > li.collection-item{
+  background-image:initial;
+  background-position-x:0px;
+  background-position-y:0px;
+  background-size:initial;
+  background-repeat-x:initial;
+  background-repeat-y:initial;
+  background-attachment:initial;
+  background-origin:initial;
+  background-clip:initial;
+  background-color:initial;
+  border-top-width:0px;
+  border-right-width:0px;
+  border-bottom-width:0px;
+  border-left-width:0px;
+  border-top-style:initial;
+  border-right-style:initial;
+  border-bottom-style:initial;
+  border-left-style:initial;
+  border-top-color:initial;
+  border-right-color:initial;
+  border-bottom-color:initial;
+  border-left-color:initial;
+  border-image-source:initial;
+  border-image-slice:initial;
+  border-image-width:initial;
+  border-image-outset:initial;
+  border-image-repeat:initial;
+}
+footer.gram-footer ul.collection{
+  border-top-width:0px;
+  border-right-width:0px;
+  border-bottom-width:0px;
+  border-left-width:0px;
+  border-top-style:initial;
+  border-right-style:initial;
+  border-bottom-style:initial;
+  border-left-style:initial;
+  border-top-color:initial;
+  border-right-color:initial;
+  border-bottom-color:initial;
+  border-left-color:initial;
+  border-image-source:initial;
+  border-image-slice:initial;
+  border-image-width:initial;
+  border-image-outset:initial;
+  border-image-repeat:initial;
+}
+.input-field [type="checkbox"] + label, .input-field [type="radio"]:checked + label, .input-field [type="radio"]:not(:checked) + label{
+  pointer-events:auto;
+}
+input:not([type]):focus:not([readonly]), input[type="date"]:not(.browser-default):focus:not([readonly]), input[type="datetime-local"]:not(.browser-default):focus:not([readonly]), input[type="datetime"]:not(.browser-default):focus:not([readonly]), input[type="email"]:not(.browser-default):focus:not([readonly]), input[type="number"]:not(.browser-default):focus:not([readonly]), input[type="password"]:not(.browser-default):focus:not([readonly]), input[type="search"]:not(.browser-default):focus:not([readonly]), input[type="tel"]:not(.browser-default):focus:not([readonly]), input[type="text"]:not(.browser-default):focus:not([readonly]), input[type="time"]:not(.browser-default):focus:not([readonly]), input[type="url"]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]){
+  border-bottom-width:1px;
+  border-bottom-style:solid;
+  border-bottom-color:orange;
+  box-shadow:orange 0px 1px 0px 0px;
+}
+#contact input#your-email, #contact textarea#your-message{
+  color:rgb(255, 255, 255);
+}
+.icon-block{
+  padding-top:0px;
+  padding-right:15px;
+  padding-bottom:0px;
+  padding-left:15px;
+}
+.icon-block .material-icons{
+  font-size:inherit;
+}
+footer.page-footer{
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+}
+.parallax{
+  position:static;
+}
+.section.no-pad-bot{
+  float:none;
+}
+.materialize-textarea{
+  float:none;
+}
+.btn-large.waves-effect.waves-light.orange{
+  float:none;
+  display:inline-block;
+}
+.parallax-container.valign-wrapper{
+  float:none;
+  position:relative;
+}
+@media only screen and (max-width: 992px){
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
   }
-
-  .fk-form-label {
-    color: #0959A2;
-    display: block;
-    font-family: SamsungIFRg, sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 25px;
-    margin-bottom: 6px;
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
+  .parallax-container .section{
+	position:absolute;
+	top:40%;
+  }
+  #index-banner .section{
+	top:10%;
+  }
 }
-
-
-
-.yv-footer,.yv-header{
-  text-align: center;
-  border-bottom: 1px solid #dadada;
-}
-.fk-panel-title {
-    color: #333;
-    font-family: SamsungIFRg, sans-serif;
-    font-size: 30px;
-    }
-
-  .fk-outlinebutton {
-    box-sizing: border-box;
-    -webkit-transition: background-color 0.4s ease;
-    -moz-transition: background-color 0.4s ease;
-    transition: background-color 0.4s ease;
-    height: 36px;
-    border: 1px solid #0F73BC;
-    color: #0F73BC;
-    display: inline-block;
-    font-size: 16px;
-    letter-spacing: 0.1em;
-    line-height: 32px;
-    min-width: 100px;
-    padding: 0 10px;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    background-color: white;
+@media only screen and (max-width: 600px){
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
+  #index-banner .section{
+	top:0px;
+  }
 }
