@@ -1,0 +1,74 @@
+.yv-header{
+  width: 100%;
+  height: 10vh;
+  background-color: white;
+
+}
+
+.fk-gnb__logo {
+    max-width: 150px;
+    width: 100%;
+    margin-top: 2.7vh;
+}
+.great{
+    width: 400px;
+    height: 120px;
+}
+
+.fk-form-input {
+    box-sizing: border-box;
+    background: #fff;
+    border: 2px solid #c6d9eb;
+    color: #333;
+    cursor: auto;
+    display: block;
+    font-family: SamsungIFRg, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 25px;
+    padding: 10px;
+    text-align: left;
+    text-transform: none;
+  }
+
+  .fk-form-label {
+    color: #0959A2;
+    display: block;
+    font-family: SamsungIFRg, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-bottom: 6px;
+}
+
+
+
+.yv-footer,.yv-header{
+  text-align: center;
+  border-bottom: 1px solid #dadada;
+}
+.fk-panel-title {
+    color: #333;
+    font-family: SamsungIFRg, sans-serif;
+    font-size: 30px;
+    }
+
+  .fk-outlinebutton {
+    box-sizing: border-box;
+    -webkit-transition: background-color 0.4s ease;
+    -moz-transition: background-color 0.4s ease;
+    transition: background-color 0.4s ease;
+    height: 36px;
+    border: 1px solid #0F73BC;
+    color: #0F73BC;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    line-height: 32px;
+    min-width: 100px;
+    padding: 0 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white;
+}
