@@ -1,6 +1,13 @@
 .row, .parallax-container .section{
   width:100%;
 }
+
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    height: 400px !important;
+}
+
 .row{
   display:table;
   padding-top:10px;
