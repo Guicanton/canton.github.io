@@ -2,7 +2,7 @@
   width:100%;
 }
 
-.parallax-container {
+#index-banner.parallax-container {
     position: relative;
     overflow: hidden;
     height: 400px !important;
