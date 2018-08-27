@@ -260,7 +260,7 @@ input:not([type]):focus:not([readonly]), input[type="text"]:not(.browser-default
 @media (max-width: 480px){
      .header.center{
          text-align:center;
-         font-size:56px;
+          font-size: 44px;
     }
      .header.col.s12.light{
          text-align:center;
