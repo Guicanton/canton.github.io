@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Guilherme Canton",
+    "scope": "/canton.github.io/",
+    "display": "browser",
+    "start_url": "https://guicanton.github.io/canton.github.io/",
+    "short_name": "Canton",
+    "theme_color": "transparent",
+    "description": "Desenvolvedor web Guilherme Canton",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/8b04733e-8e7c-7b88-f953-112de6202e83.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/16d6f438-3e46-1179-12d2-ffd32b529377.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c1d0e773-dfd2-08ea-9faa-39322b37f897.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d3b81ee6-f4ad-a34b-c4c9-a42e34c929a2.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ffe651c0-077f-5764-f66b-5f7bdbec4d40.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e165c6fd-2193-965a-bc93-70a0afae4115.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0ad32e7e-f4ba-633d-8a4c-c976be32d0ab.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f2b4626a-0f21-abc7-6c44-16d79758a640.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f3d4e826-37ea-2eeb-e76a-3826690036ba.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/858688c1-a8b3-a5aa-443d-d7917754dadc.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0612106b-59d3-7882-4c7a-6e853a30bf58.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/541e2f6e-093c-29d4-54ca-f909c16142a8.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a7b9b217-552f-7339-3fae-71c39771fe9a.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/09db1f57-f3b3-fe30-5c16-bd4895e72eaa.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0b5b4359-2009-e1e8-69a3-63da15e01162.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6c1ab7a5-c1dd-c6c3-0474-d4aa885f7634.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8ea71058-e245-c6b8-9c44-da6b9f3b83f9.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7ff3808e-313a-87f9-2ad3-87abcc67bf2c.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/50ff2f54-e32b-bb15-638c-6a889ddaf766.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
